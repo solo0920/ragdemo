@@ -5,7 +5,7 @@ Sync Impact Report
 - Modified sections: G2, Migration Notes
 - Added sections: None
 - Removed sections: None
-- Follow-up TODOs: Ratification date is "(pending)" (TODO(RATIFICATION_DATE)).
+- Follow-up TODOs: TODO(RATIFICATION_DATE): ratification date pending; constitution remains a draft and is not yet ratified.
 -->
 
 # ragdemo.win Constitution v2.0.0-DRAFT.4
@@ -279,7 +279,7 @@ Each item MUST link to evidence (command output path or artifact link), per E1 a
 ## Version
 
 - Version: 2.0.0-DRAFT.4
-- Ratified: (pending)
+- Ratified: TODO(RATIFICATION_DATE): ratification date pending; constitution remains a draft and is not yet ratified
 - Last amended: 2026-10-14
 
 ## Migration Notes
